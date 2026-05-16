@@ -43,3 +43,13 @@ Before making a coursework repo public:
 - Keep grade reports, full feedback, and course documents private when policy is unclear.
 - Make the README clear about what is original submission work versus later polish.
 - Keep a private branch or private backup with full artifacts if you want to preserve them.
+
+## Official References To Check
+
+- [SNHU Academic Integrity](https://www.snhu.edu/about-us/academic-integrity)
+- [SNHU Copyright Guide](https://libguides.snhu.edu/copyright)
+- [SNHU Fair Use FAQ](https://libanswers.snhu.edu/faq/13152)
+- [SNHU Student IP FAQ](https://libanswers.snhu.edu/faq/431408)
+- [SNHU Student Handbook](https://pages.snhu.edu/students/handbooks/Student_Handbook.pdf)
+
+The practical reading is: students may own the work they create, but that does not automatically grant permission to republish course-provided text, rubrics, third-party readings, LMS content, or private feedback. Use public summaries and private full archives when the boundary is unclear.
