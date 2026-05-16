@@ -1,0 +1,15 @@
+# Preserve submitted coursework source/data files exactly as archived.
+*.cpp -text
+*.h -text
+*.txt -text
+*.dat -text
+
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+*.docx binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary

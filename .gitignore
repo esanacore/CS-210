@@ -1,0 +1,34 @@
+# Build outputs
+/corner-grocer
+/corner-grocer.exe
+/corner_grocer
+/corner_grocer.exe
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# CMake and common generated build folders
+/build/
+/cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE/editor files
+.vscode/
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Notes:
+# frequency.dat is intentionally tracked as sample output for this preserved coursework archive.
