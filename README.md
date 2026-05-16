@@ -84,6 +84,8 @@ See [docs/COURSE_ARTIFACTS.md](docs/COURSE_ARTIFACTS.md) for the current artifac
 
 See [docs/ARCHIVE_GUIDE.md](docs/ARCHIVE_GUIDE.md) for the long-term approach to polishing this and other `CS-*` repositories as portfolio archives.
 
+See [docs/SNHU_PRIVACY_AND_PORTFOLIO_GUIDE.md](docs/SNHU_PRIVACY_AND_PORTFOLIO_GUIDE.md) for the conservative sharing policy used by this archive.
+
 ## License
 
 Original code and documentation authored by Eric Sanacore are available under the MIT License. Course-provided prompts, rubrics, templates, feedback, and other third-party materials retain their original ownership and terms.
